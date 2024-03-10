@@ -1,0 +1,8 @@
+table tr td:nth-child(2){
+    color:#fff;
+    background-color:#368dae ;
+}
+.decale{
+    margin-left: 0%;
+    background: linear-gradient(white, #a5d4f2);
+}
